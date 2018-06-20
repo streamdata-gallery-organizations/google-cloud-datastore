@@ -4,7 +4,7 @@ x-collection-name: Google Cloud Datastore
 x-complete: 1
 info:
   title: Google Cloud Datastore
-  description: accesses-the-schemaless-nosql-database-to-provide-fully-managed-robust-scalable-storage-for-your-application
+  description: accesses-the-schemaless-nosql-database-to-provide-fully-managed-robust-scalable-storage-for-your-application-
   contact:
     name: Google
     url: https://google.com
